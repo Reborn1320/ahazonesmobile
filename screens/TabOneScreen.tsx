@@ -7,6 +7,7 @@ export default function TabOneScreen() {
   return (
     <WebView
         source={{ uri: 'https://www.ahazones.com/' }}
+        style={{ marginTop: 20 }}
       />
   );
 }
