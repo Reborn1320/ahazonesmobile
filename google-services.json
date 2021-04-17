@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720100210550",
+    "firebase_url": "https://buzznews-8df38-default-rtdb.firebaseio.com",
+    "project_id": "buzznews-8df38",
+    "storage_bucket": "buzznews-8df38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720100210550:android:333b668f6ea30767ca2c57",
+        "android_client_info": {
+          "package_name": "com.olo.ahazones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720100210550-vfnt03h2ud3go79nfot817eorctoc828.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMRgH87CkDrr9iSQhGSImXMV0TLvql_FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720100210550-vfnt03h2ud3go79nfot817eorctoc828.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
